@@ -1,0 +1,6 @@
+[submodule "ylib"]
+	path = ylib
+	url = git@github.com:zshyang/ylib.git
+[submodule "transformers"]
+	path = transformers
+	url = git@github.com:huggingface/transformers.git
