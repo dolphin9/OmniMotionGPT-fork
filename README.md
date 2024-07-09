@@ -1,6 +1,9 @@
 Frok from https://github.com/USRC-SEA/OmniMotionGPT
 
 
+run ``bash git_ref.sh`` in terminal
+
+
 ==================================
 # OmniMotionGPT
 Codebase for OmniMotionGPT: Animal Motion Generation with Limited Data (CVPR2024)
