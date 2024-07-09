@@ -3,3 +3,4 @@ data/
 ylib/
 transformers/
 sub_modules/
+pytorch3d/
